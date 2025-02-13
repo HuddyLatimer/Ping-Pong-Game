@@ -10,7 +10,7 @@ Welcome to the Enhanced Ping Pong Game! This is a classic Pong game implemented 
 - [Usage](#usage)
 - [Game Controls](#game-controls)
 - [Contributing](#contributing)
-- [License](#license)
+- [Showcase](#showcase)
 
 ## Overview
 
@@ -64,7 +64,7 @@ https://github.com/user-attachments/assets/fef9ce77-816f-4a02-8481-59e4be20cfdd
 
 
 
-
+## Contributing
 1. Fork the repository.
 2. Create a new branch with a descriptive name:
     ```bash
